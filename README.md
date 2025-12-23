@@ -12,7 +12,7 @@ I've been working on transparency, an app to help solve addictions with lust, an
 into the world of transformers, neural nets, and other cool machine learning stuff. Also, I've 
 been working on electrical engineering projects.
 
-# Fun Facts
+### Fun Facts
   - I like playing badminton
   - I like reading
   - I like sleeping
