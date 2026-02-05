@@ -20,5 +20,8 @@ I'm currently working meetly a hangout planning app that effectively calculates 
   - I like sleeping
 
 
-
+### Completed Projects
+  - (transparency)[https://github.com/sirgavin211/transparency]
+  - (bingobulk)[https://github.com/sirgavin211/bingo_generator]
+  - (a quiet place)[https://github.com/sirgavin211/a-quiet-place]
 
