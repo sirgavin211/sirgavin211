@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm Gavin, an 8th grader, delving into the deep world of
+I'm Gavin, an 9th grader, delving into the deep world of
 computer science and electrical engineering.
 
 I code and build whatever my heart desires and often
